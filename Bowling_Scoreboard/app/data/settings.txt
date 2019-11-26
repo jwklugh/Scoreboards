@@ -1,0 +1,4 @@
+default.txt
+data/saves/defaultSave.txt
+players.txt
+50
